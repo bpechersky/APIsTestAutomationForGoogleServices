@@ -43,3 +43,4 @@ src/test/resources/*service-account*.json
 #env file with access token
 .env
 src/test/resources/service-account.json
+.env
